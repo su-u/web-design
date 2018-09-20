@@ -1,0 +1,9 @@
+.hero-header-container {
+  background: url("/image/TheSacrifice_Keyart_1080p.png") center no-repeat;
+  position: relative;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/*# sourceMappingURL=index.css.map */
