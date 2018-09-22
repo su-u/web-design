@@ -45,7 +45,7 @@ body {
 }
 
 .hero-header-container {
-  background: url("/1/image/TheSacrifice_Keyart_1080p-logo.png") center;
+  background: url("../image/TheSacrifice_Keyart_1080p-logo.png") center;
   position: relative;
   height: 100vh;
   background-size: cover;
